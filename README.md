@@ -5,7 +5,7 @@
 ## Project Overview
 The **Cardiovascular Disease Prediction** project aims to predict the occurrence of cardiovascular disease in patients based on their medical records and history. By analyzing various factors, the project calculates the probability of cardiovascular disease developing in a patient. This predictive model is a valuable tool in identifying individuals who are at higher risk and enabling early intervention.
 
-## The dataset has been taken from kaggle. link https://www.kaggle.com/datasets/omersedawei/cvd-cleaned , It has 308854 rows and 19 columns .
+## The dataset has been taken from kaggle.  https://www.kaggle.com/datasets/omersedawei/cvd-cleaned , It has 308854 rows and 19 columns .
 
 ## Data Dictionary
 The project utilizes a comprehensive dataset with the following features:
